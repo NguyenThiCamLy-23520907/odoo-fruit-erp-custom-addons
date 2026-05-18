@@ -1,6 +1,4 @@
-Dưới đây là bản `README.md` hoàn chỉnh, viết rõ hơn để người khác đọc GitHub có thể hiểu mục tiêu, nghiệp vụ, cách cài, cách demo và tình trạng hiện tại của 2 module.
 
-````markdown
 # Odoo Fruit ERP Custom Addons
 
 Repository này chứa 2 custom module Odoo được phát triển cho đồ án triển khai ERP trong doanh nghiệp thu mua, phân phối và bán lẻ trái cây tươi.
